@@ -14,10 +14,10 @@
 ### 🧠 Skills & Tools
 
 #### 👨‍💻 Languages & Frameworks:
-`Python` | `JavaScript` | `C/C++` | `HTML` | `CSS` | `Bootstrap` | `Node.js` | `Flask`
+<p align="left"> <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" /> <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/> <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/> <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" title="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/> <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/> <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js"/> </p>
 
 #### 💾 Backend:
-`Firebase` | `Flask`
+<p align="left"> <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask"/> </p>
 
 #### 🧰 Tools:
 `VS Code` | `Arduino IDE` | `Blink IDE` | `SQL` | `Netlify` | `Render` | `GoDaddy`
